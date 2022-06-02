@@ -33,7 +33,7 @@ console.log(difference);
 
 * __ВУЗ:__ Национальный университет "Запорожская Политехника",
 факультет - транспортный, квалификация - инженер-механик
-* __Курсы__: адаптивный веб-дизайн [__freeCodeCamp__](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form "Форма опроса")
+* __Курсы:__ адаптивный веб-дизайн [__freeCodeCamp__](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form "Форма опроса")
 ---------------
 ## Язык
 
