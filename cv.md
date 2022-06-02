@@ -5,6 +5,7 @@
 * __Электронная почта:__ secretnerowww@gmail.com 
 * __Дискорд:__ ux_know#9679
 * __GitHub:__ [uxknow](https://github.com/uxknow "Профиль")
+
 ---------------
 ## Кратко о себе
 
@@ -19,6 +20,7 @@
 
 * HTML
 * CSS
+
 ---------------
 ## Пример кода:
 ```
@@ -34,6 +36,7 @@ console.log(difference);
 * __ВУЗ:__ Национальный университет "Запорожская Политехника",
 факультет - транспортный, квалификация - инженер-механик
 * __Курсы:__ адаптивный веб-дизайн [__freeCodeCamp__](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form "Форма опроса")
+
 ---------------
 ## Язык
 
