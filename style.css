@@ -223,7 +223,7 @@
     }
      .section__contact  {
         position: relative;
-        margin: 12px 0; 
+        margin: 12px 0 0; 
     }
     .section__contact .icon {
         display: inline-block;
