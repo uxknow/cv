@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://uxknow.github.io/rsschool-cv/cv
+https://uxknow.github.io/cv/cv
