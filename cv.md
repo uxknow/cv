@@ -28,9 +28,9 @@
 * __ВНЗ:__ Національний університет "Запорізька Політехніка",
 факультет - транспортний, кваліфікація - інженер-механік
 * __Курси:__ 
-* адаптивный веб-дизайн [__freeCodeCamp__](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form "Форма опроса");
+* адаптивный веб-дизайн freeCodeCamp;
 * Сучасний JavaScript з нуля до junior спеціаліста (2022) - Юрія Аллахведова;
-* RSSchool - JS/FE PRE-SCHOOL 2022Q2 (JAVASCRIPT)[RSSchool](https://app.rs.school/certificate/kbybn1ri);
+* RSSchool - JS/FE PRE-SCHOOL 2022Q2 (JAVASCRIPT) [RSSchool](https://app.rs.school/certificate/kbybn1ri);
 ---------------
 ## Мова
 
